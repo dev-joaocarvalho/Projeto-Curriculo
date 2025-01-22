@@ -47,9 +47,11 @@ with col2:
     st.caption("Brasília, DF, 73105-905")
     st.caption("**☎️ +55 61 98199-4401**")
     st.caption("**dev.joaocarvalho@gmail.com**")
-    button_col1, button_col2, button_col3 = st.columns([1, 1, 1])
-    st.link_button("🐈‍⬛Github", "https://github.com/dev-joaocarvalho") 
-    st.link_button("🌎LinkedIn", "https://www.linkedin.com/in/joaom-s-carvalho/")
+    button_col1, button_col2 = st.columns([1, 1])
+    with button_col1:
+        st.link_button("🐈‍⬛GitHub", "https://github.com/dev-joaocarvalho") 
+    with button_col2:
+        st.link_button("🌎LinkedIn", "https://www.linkedin.com/in/joaom-s-carvalho/")
         
     st.divider()
     st.write(":blue[COMPETÊNCIAS]")
