@@ -9,8 +9,7 @@ st.set_page_config(
     initial_sidebar_state="auto"
 )
 
-    # Colunas dentro da aba 1
-    col1, col2 = st.columns([4, 1])
+col1, col2 = st.columns([4, 1])
     
     with col1:
         st.title("João Marcos Santos e Carvalho")
