@@ -19,7 +19,7 @@ with col1:
         
     st.divider()
     st.subheader(":blue[PROJETOS]")
-    #st.write("**[Projeto Currículo](https://curriculo.streamlit.app)** — _Projeto Python_")
+    st.write("**[Projeto Currículo](https://curriculo-joaocarvalho.streamlit.app/)** — _Projeto Python_")
     st.caption("Objetivo de criar esse currículo em um site usando a biblioteca Streamlit do Python. ")
     st.write("**Projeto Guia do Universitário** — _Projeto Integrador_")
     st.caption("Plataforma web para ajudar calouros com dicas sobre a faculdade e estudos.")
