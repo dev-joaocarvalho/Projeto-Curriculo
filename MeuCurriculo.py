@@ -5,7 +5,7 @@ import pandas as pd
 st.set_page_config(
     page_title="João Carvalho",
     page_icon="🙂",
-    layout="centered",
+    layout="wide",
     initial_sidebar_state="auto"
 )
 
