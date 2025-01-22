@@ -9,10 +9,6 @@ st.set_page_config(
     initial_sidebar_state="auto"
 )
 
-# Tabulação
-tab1 = st.tabs(["Currículo"])
-
-with tab1:
     # Colunas dentro da aba 1
     col1, col2 = st.columns([4, 1])
     
