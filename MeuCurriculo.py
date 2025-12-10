@@ -18,7 +18,9 @@ with col1:
 
         
     st.divider()
-    st.subheader(":blue[PROJETOS]")
+    st.subheader(":blue[EXPERIÊNCIA ACADÊMICA E PROJETOS]")
+    st.write("**Monitoria no departamento de Matemática**")
+    st.caption("Desenvolvimento de didática e comunicação técnica clara para explicação de conceitos abstratos e resolução de problemas. ")
     st.write("**[Projeto Immunity Dashboard](https://immunity-dashboard.streamlit.app/)** — _Python e Streamlit_")
     st.caption("Desenvolvimento de aplicação web interativa para análise e visualização de dados de vacinação ")
     st.write("**Projeto Guia do Universitário** — _Projeto Integrador_")
