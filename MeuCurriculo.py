@@ -33,16 +33,6 @@ with col1:
     st.caption("Bacharelado em Ciência da Computação - Quarto semestre, com previsão de formatura em 2026.")
 
     st.divider()
-
-    st.subheader(":blue[REDES]")
-
-    button_col1, button_col2, button_col3, button_col4 = st.columns([1, 1, 1, 1])
-
-    with button_col1:
-        st.link_button("🐈‍⬛Github", "https://github.com/dev-joaocarvalho") 
-
-    with button_col2:
-        st.link_button("🌎LinkedIn", "https://www.linkedin.com/in/joaom-s-carvalho/")
           
 
 with col2:
