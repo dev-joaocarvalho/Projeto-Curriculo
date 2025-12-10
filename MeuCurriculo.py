@@ -29,11 +29,13 @@ with col1:
 
     st.divider()
     st.subheader(":blue[FORMAÇÃO]")
-    st.write("Instituto de Educação Superior de Brasília (IESB), Asa Sul, DF")
-    st.caption("Bacharelado em Ciência da Computação - Quarto semestre, com previsão de formatura em 2026.")
+    st.write("Universidade de Brasília (UnB), FCTE — Bacharelado")
+    st.caption("Curso Bacharelado em Engenharia de Software, JULHO DE 2024 – ATUALMENTE")
 
-    st.divider()
-          
+    st.write("Instituto de Educação Superior de Brasília (IESB), Asa Sul — Bacharelado")
+    st.caption("Curso Bacharelado em Ciência da Computação, JANEIRO DE 2023 – ATUALMENTE")
+
+
 
 with col2:
     st.caption("Brasília, DF, 73105-905")
