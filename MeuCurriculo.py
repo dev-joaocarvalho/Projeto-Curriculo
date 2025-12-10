@@ -38,11 +38,11 @@ with col1:
 
 
 with col2:
-    st.caption("Brasília, DF, 73105-905")
-    st.caption("**☎️ +55 61 98199-4401**")
+    st.caption("Brasília, DF")
+    st.caption("**(61) 98199-4401**")
     st.caption("**dev.joaocarvalho@gmail.com**")
     st.link_button("🐈‍⬛GitHub", "https://github.com/dev-joaocarvalho") 
-    st.link_button("🌎LinkedIn", "https://www.linkedin.com/in/joaom-s-carvalho/")
+    st.link_button("🌎LinkedIn", "https://www.linkedin.com/in/joaocarvalho-in/")
         
     st.divider()
     st.write(":blue[COMPETÊNCIAS]")
