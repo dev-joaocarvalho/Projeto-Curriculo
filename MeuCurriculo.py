@@ -61,12 +61,10 @@ with col2:
     st.caption("Banco de dados: DBeaver.")
     st.caption("Sistemas Operacionais: Linux, Windows.")
 
-    st.divider()
-    st.write(":blue[PROJETOS VOLUNTÁRIOS]")
-    st.caption("Monitoria em Tópicos de Matemática")
         
     st.divider()
     st.write(":blue[IDIOMAS]")
+    st.caption("Português Nativo.")
     st.caption("Inglês Intermediário.")
 
 st.divider()
