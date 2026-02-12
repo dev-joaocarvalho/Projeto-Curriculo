@@ -32,9 +32,6 @@ with col1:
     st.write("Universidade de Brasília (UnB), FCTE — Bacharelado")
     st.caption("Curso Bacharelado em Engenharia de Software, JULHO DE 2024 – ATUALMENTE")
 
-    st.write("Instituto de Educação Superior de Brasília (IESB), Asa Sul — Bacharelado")
-    st.caption("Curso Bacharelado em Ciência da Computação, JANEIRO DE 2023 – ATUALMENTE")
-
 
 
 with col2:
